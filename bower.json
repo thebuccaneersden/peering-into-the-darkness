@@ -1,0 +1,12 @@
+{
+  "name": "Peering Into The Darkness - Simple monitoring application",
+  "version": "1.0.0",
+  "authors": [
+    "Hans-Christian Andersen <andersen.hc@gmail.com>"
+  ],
+  "description": "",
+  "ignore": [],
+  "dependencies": {
+ 	"Dogfalo/materialize": "~0.97.6"
+ }
+}
